@@ -73,3 +73,28 @@
 /woff-woff2-ttf/*.ttf
     Access-Control-Allow-Origin: *
     Content-Type: application/font-ttf 
+
+
+/woff-specific/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff-specific/*.woff
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff    
+
+/ttf-specific/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/ttf-specific/*.ttf
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-ttf    
+
+/woff2-specific/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff2-specific/*.woff2
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff2   

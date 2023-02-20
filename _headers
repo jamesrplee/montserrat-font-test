@@ -21,3 +21,15 @@
 /woff2/*.css
     Access-Control-Allow-Origin: *
     Content-Type: text/css
+  
+/woff-ttf/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff-ttf/*.ttf
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-tff
+
+/woff-ttf/*.woff
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff    

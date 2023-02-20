@@ -33,3 +33,43 @@
 /woff-ttf/*.woff
     Access-Control-Allow-Origin: *
     Content-Type: application/font-woff    
+
+/woff-woff2/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff-woff2/*.woff2
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff2
+
+/woff-woff2/*.woff
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff    
+
+/woff2-ttf/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff2-ttf/*.woff2
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff2
+
+/woff2-ttf/*.ttf
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-ttf 
+
+/woff-woff2-ttf/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff-woff2-ttf/*.woff
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff
+
+/woff-woff2-ttf/*.woff2
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-woff2
+
+/woff-woff2-ttf/*.ttf
+    Access-Control-Allow-Origin: *
+    Content-Type: application/font-ttf 

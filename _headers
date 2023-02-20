@@ -9,3 +9,15 @@
 /ttf/*.ttf
     Access-Control-Allow-Origin: *
     Content-Type: application/font-tff
+
+/ttf/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
+
+/woff2/*.css
+    Access-Control-Allow-Origin: *
+    Content-Type: text/css
